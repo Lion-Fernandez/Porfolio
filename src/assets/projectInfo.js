@@ -5,7 +5,7 @@ export const projectInfo = [
         description: "Presento Una App desarrollada con el stack React-Redux-Node-Express-PostgreSQL sobre temática de Pokémon donde se implementa a modo de práctica búsquedas por nombre o Id, el uso de filtrados, creación y guardado en base de datos local. Son solo algunos usos de herramientas que se pueden desarrollar con el enorme abanico que te brindan estos Full Stack de tecnologías."
     },
     {
-        id: 2, name: "PetShop", link: "https://petshop-35b9a.web.app/", pic: "src/assets/img/PetShop.jpg", video: "https://www.youtube.com/watch?v=p41kBZhSRVg",
+        id: 2, name: "PetShop", link: "https://petshop-35b9a.web.app/", pic: "../../assets/img/PetShop.jpg", video: "https://www.youtube.com/watch?v=p41kBZhSRVg",
         description: " 🖥 Les comparto este demo del desarrollo de un #Ecommerce de productos para mascotas. El mismo se trabajó bajo metodologías Scrum, con sprints semanales y presentaciones a una Product Owner.🐶 🐱 La tienda cuenta con una sección para fomentar la adopción de mascotas y contribuir a la ayuda en la búsqueda de mascotas perdidas o anunciar encontradas.💻 Stack: F - Firebase E - Express R - React N - NodeJs"
     },
     {
