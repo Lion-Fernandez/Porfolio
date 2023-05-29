@@ -1,0 +1,20 @@
+.h2 {
+    background-color: black;
+    color: rgb(20, 158, 212);
+  }
+
+.ctn {
+    height: 100vh;
+    position: relative
+
+}
+.spin {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate (-50%, -50%);
+    transform: translate (-50%, -50%);
+    text-decoration-color: aqua;
+
+}

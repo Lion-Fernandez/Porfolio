@@ -1,0 +1,20 @@
+.cnt{
+  display: flex;
+  flex-direction: column;
+}
+
+.p {
+  text-align: center;
+  color: aliceblue;
+  font-size: 22px;
+  margin: 40px 40px;
+}
+
+.cardcnt{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 60px;
+  gap: 30px;
+  text-decoration: rgb(251, 74, 204) ;
+}
