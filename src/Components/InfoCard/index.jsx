@@ -1,8 +1,5 @@
 import React from "react";
 import InfoCardCss from "./InfoCard.module.css";
-// import Link from "react-router-dom";
-import { projectInfo } from "../../assets/projectInfo";
-
 
 function InfoCard({ name, pic, link, video, description }) {
 
