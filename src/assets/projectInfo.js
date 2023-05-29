@@ -1,7 +1,7 @@
 export const projectInfo = [
-
+   
     {
-        id: 1, name: "poke-api-lion", link: "https://poke-api-lion.netlify.app/", pic: "../src/assets/img/PI_Pokemon.jpg", video: "https://youtu.be/IlSueHm1sz8",
+        id: 1, name: "poke-api-lion", link: "https://poke-api-lion.netlify.app/", pic: "../../src/assets/img/PI_Pokemon.jpg", video: "https://youtu.be/IlSueHm1sz8",
         description: "Presento Una App desarrollada con el stack React-Redux-Node-Express-PostgreSQL sobre temática de Pokémon donde se implementa a modo de práctica búsquedas por nombre o Id, el uso de filtrados, creación y guardado en base de datos local. Son solo algunos usos de herramientas que se pueden desarrollar con el enorme abanico que te brindan estos Full Stack de tecnologías."
     },
     {
