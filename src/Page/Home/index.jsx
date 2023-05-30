@@ -23,6 +23,7 @@ const Home = () => {
     return (
 
         <div className={HomeCss.cnt} >
+            <p className={HomeCss.p1}>{"<Full Stack Developer/>"} </p>
             <p className={HomeCss.p}> {projectDescript} </p>
             <div className={HomeCss.cardcnt} >
                 {
