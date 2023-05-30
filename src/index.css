@@ -1,4 +1,4 @@
-html{
+html, body {
   margin: 0;
   padding: 0;
   background-image:linear-gradient( to bottom,rgba(4, 1, 9, 0.821),rgba(21, 3, 25, 0.5)), url("./assets/img/stars-background.jpg");

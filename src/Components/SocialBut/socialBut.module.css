@@ -1,14 +1,14 @@
 .cnt{
   display: flex;
   justify-content: center;
-  padding: 20px;
+  padding: 0.1%;
 }
 
 .btn {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0.1em;
+    padding: 0.1%;
     margin: 0.4rem;
     width: 3.8rem;
     height: 3.8rem;

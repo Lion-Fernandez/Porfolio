@@ -11,7 +11,7 @@ function App() {
       <Background />
       <Navbar />
       <Home />
-      <div style={{ background: "black", width: "100vw" }}>
+      <div style={{ background: "black", width: "100%", padding:"5px", marginBottom: "15px" }}>
         <SocialBut />
       </div>
     </>
