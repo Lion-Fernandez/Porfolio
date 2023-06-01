@@ -62,16 +62,16 @@ export const projectInfo = [
     },
     {
         id: 16, name: "keep-note-angular", link: "https://keep-note-angular.netlify.app", pic: "http://drive.google.com/uc?export=view&id=1a0gHLtwra1Crb1g4V4b8CDuL1ip1nyOD",
-        description: "aplicación Web para listar tareas diarias y eliminarlas al ser realizadas"
+        description: "app Web para listar tareas diarias y eliminarlas al ser realizadas"
     },
     {
         id: 17, name: "lion-dices", link: "https://lion-dices.netlify.app", pic: "http://drive.google.com/uc?export=view&id=18Ber3X-AAnGrNNeBkwPFS16wCJY-kiFz",
-        description: "app lúdica de práctica que al hacer clic arroja dos dados al azar"
+        description: "app web lúdica (de práctica) que al hacer clic arroja dos dados al azar"
     },
     {
         id: 18, name: "lion-piano-app", link: "https://lion-piano-app.netlify.app", pic: "http://drive.google.com/uc?export=view&id=1OvbZRoapdMiSyazAEcCSRShj1C-UnPhJ",
-        description: "app lúdica de práctica para tocar un piano/cilofón virtual"
+        description: "app de práctica  en la que se puede tocar un piano/cilofón virtual"
     },
 ];
 
-export const projectDescript = `Soy Desarrollador Web Full Stack (capaz de desarrollar una aplicación web desde el modelado de los datos y del backend, hasta el desarrollo e implementación del frontend, incluyendo su diseño, UX y UI), motivado en como un buen manejo de las tecnologías IT y una buena conexión, pueden ayudar a mejorar la vida de las personas. \nBuscando nuevas experiencias y responsabilidades en una empresa donde pueda aportar valor y nutrirme trabajando con grandes talentos profesionales para formar un mejor yo del futuro.`
+export const projectDescript = `Desarrollador Web Full Stack con aptitudes para desarrollar una aplicación web desde el modelado de los datos y del backend, hasta el desarrollo e implementación del frontend, incluyendo su diseño, UX y UI. Motivado en como un buen manejo de las tecnologías IT y una buena conexión, pueden ayudar a mejorar la vida de las personas. \n En busqueda de nuevas experiencias y responsabilidades en una empresa donde pueda aportar valor, creatividad y nutrirme trabajando con grandes talentos profesionales para poder mejorar día a día.`
