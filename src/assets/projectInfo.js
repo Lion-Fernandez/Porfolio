@@ -74,4 +74,4 @@ export const projectInfo = [
     },
 ];
 
-export const projectDescript = `Desarrollador Web Full Stack con aptitudes para desarrollar una aplicación web desde el modelado de los datos y del backend, hasta el desarrollo e implementación del frontend, incluyendo su diseño, UX y UI. Motivado en como un buen manejo de las tecnologías IT y una buena conexión, pueden ayudar a mejorar la vida de las personas. \n En busqueda de nuevas experiencias y responsabilidades en una empresa donde pueda aportar valor, creatividad y nutrirme trabajando con grandes talentos profesionales para poder mejorar día a día.`
+export const projectDescript = `Desarrollador Web Full Stack con aptitudes para desarrollar una aplicación web desde el modelado de los datos y del backend, hasta el desarrollo e implementación del frontend, incluyendo su diseño, UX y UI. Motivado en como un buen manejo de las tecnologías IT y una buena conexión, pueden ayudar a mejorar la vida de las personas. \n En búsqueda de nuevas experiencias y responsabilidades en una empresa donde pueda aportar valor, creatividad y nutrirme trabajando con grandes talentos profesionales para poder mejorar día a día.`
